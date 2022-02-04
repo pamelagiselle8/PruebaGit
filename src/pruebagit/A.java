@@ -10,5 +10,10 @@ package pruebagit;
  * @author bryan
  */
 public class A {
+    // hola que tal 
+    /*
+    estoy trabajando wi wi wiw iw wi wi
+    wi iwwiwi wiwi wiwiw iwiwiiw 
     
+    */
 }
