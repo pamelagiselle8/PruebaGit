@@ -10,5 +10,5 @@ package pruebagit;
  * @author bryan
  */
 public class patito {
-    
+    //hola soy un patito
 }
