@@ -16,6 +16,7 @@ public class PruebaGit {
      */
     public static void main(String[] args) {
         //hola que tal se agrego esto
+        new patito();
     }
     
 }
